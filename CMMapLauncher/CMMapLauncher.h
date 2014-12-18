@@ -52,6 +52,7 @@ typedef NS_ENUM(NSUInteger, CMMapApp) {
     CMMapAppWaze,           // Waze
     CMMapAppYandex,         // Yandex Navigator
     CMMapAppUber,           // Uber
+    CMMapAppTomTom,         // TomTom
 };
 
 @interface CMMapLauncher : NSObject
